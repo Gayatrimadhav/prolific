@@ -2,7 +2,7 @@ import React,{ useState } from "react";
 import NoteContext from "./noteContext";
 
 const NoteState = (props) => {
-  const host="http://43.205.213.135:5008"
+  const host="http://43.204.35.127/:5008"
 const notesInitial=[]
 
 
