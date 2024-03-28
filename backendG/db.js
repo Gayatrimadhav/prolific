@@ -7,7 +7,7 @@
 // }
 // module.exports=connectToMongo;
 const mongoose = require('mongoose');
-const mongoURI = "mongodb://43.205.213.135:27017/load12"
+const mongoURI = "mongodb+srv://psktech2024:<password>@psktech.nnxrkg9.mongodb.net/load13"
 
 const connectToMongo = async () => {
 try {
